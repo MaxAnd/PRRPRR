@@ -84,5 +84,6 @@ public class HashTest {
             land = sc.nextLine();
         }//end while
         System.out.println("SLUT");
+        System.out.println("Hey mama");
     }//end main
 }//end class
